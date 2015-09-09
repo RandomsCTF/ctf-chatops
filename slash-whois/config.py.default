@@ -1,0 +1,19 @@
+#
+# Complete these config options and rename file to config.py
+#
+
+
+# put your integration token here
+slack_token = ''
+
+# put a webhook URL that's configured for POST requests
+slack_url = ''
+
+# this will be the bot's username in slack channel
+botname = 'whois'
+
+# make sure this doesn't conflict with another listener, default ports are configured to prevent that
+listen_port = 5002
+
+# number of minutes between actions allowed
+cooldown_min = 1
