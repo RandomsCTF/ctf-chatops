@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 import bottle   # pip install bottle
 import requests
 import socket
