@@ -22,6 +22,15 @@ GPLv3 (See `LICENSE` for more info)
 
 Eric Capuano (r4z0rb4ck) of RandomsCTFTeam
 
+## Setup
+```
+git clone https://github.com/RandomsCTF/ctf-chatops.git
+virtualenv ctf-chatops
+pushd ctf-chatops
+source Scripts/Activate
+Scripts/pip install -r requirements.txt
+```
+
 ## Note
 
 Some of the code in this project has been adapted from the following:

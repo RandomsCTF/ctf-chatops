@@ -1,0 +1,6 @@
+bottle==0.12.8
+config==0.3.9
+python-nmap==0.4.1
+requests==2.7.0
+wheel==0.24.0
+whois==0.7
